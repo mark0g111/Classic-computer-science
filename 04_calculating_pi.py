@@ -9,5 +9,6 @@ def calculating_pi(n_terms):
         operation *= -1
     return pi
 
+
 if __name__ == '__main__':
     print(calculating_pi(1000000))
